@@ -1,0 +1,38 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+
+# Python bytecode
+*.pyc
+
+# Docker
+*.env
+docker-compose.override.yml
+docker-data/
+docker-cache/
+*.pid
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Mac/Linux swap files
+*~
